@@ -1,5 +1,5 @@
-ciao questo è un esempio git.
+ciao questo Ë un esempio git.
 
 un ulteriore modifica.
 
-questo è nel branch local.
+questo Ë nel branch local.
