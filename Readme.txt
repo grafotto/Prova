@@ -1,1 +1,2 @@
-questo è nel branch local.
+questo Ë nel branch local.
+Local added messages
