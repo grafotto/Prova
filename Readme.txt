@@ -6,6 +6,4 @@ questo è nel branch local.
 
 Inserito un altro commento.  
 
-Aggiunto un altro commento.
-
 Prova prova
