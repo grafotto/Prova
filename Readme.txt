@@ -6,6 +6,6 @@ questo è nel branch local.
 
 Inserito un altro commento.  
 
-Minchia Minchia Minchia
+Aggiunto un altro commento.
 
 Prova prova
