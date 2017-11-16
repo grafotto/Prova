@@ -4,6 +4,8 @@ un ulteriore modifica.
 
 questo è nel branch local.
 
+La inserisco qui
+
 Inserito un altro commento.  
 
 Inserito un altro interessante commento. 
